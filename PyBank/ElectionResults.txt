@@ -1,0 +1,240 @@
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001
+-------------------------------
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001
+-------------------------------
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+Khan
+-------------------------------
+Winner: 
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+File Name: <_io.TextIOWrapper name='Election_Data_2.csv' mode='rU' encoding='UTF-8'>
+Election Results
+-------------------------------
+Total Votes: 3521001.0
+-------------------------------
+None
+-------------------------------
+Winner: 
+-------------------------------
+
+
