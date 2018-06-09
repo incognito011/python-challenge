@@ -17,34 +17,7 @@ with open(input("What is the name of the file: "), 'rU') as input_file:
         counties.append(county)
         candidates.append(candidate)
     
-    totVot = float(len(ids))
-
-    def unique(list1):
-
-        unique_list = []
-     
-        for x in list1:
-            if x not in unique_list:
-                unique_list.append(x)
-        for x in unique_list:
-       
-            temp = 0
-
-            tally = int(countX(candidates,x))
-
-            name = str(x)
-
-            per = float(tally)/float(totVot) * 100
-
-            if (tally > temp):
-                temp = tally
-
-        
-
-            print(x + ': ' + str(countX(candidates,x)) + " votes or " + str(per) + "%")
-
-        
-            
+    totVot = int(len(ids))
 
     def countX(lst, y):
         count = 0
@@ -52,25 +25,48 @@ with open(input("What is the name of the file: "), 'rU') as input_file:
             if (ele == y):
                 count = count + 1
         return count
-
     
-
+   
     print('File Name: ' + str(input_file), file=open('ElectionResults.txt', 'a+'))
     print('Election Results', file=open('ElectionResults.txt', 'a+'))
     print('Election Results')
-    print('-------------------------------', file=open('ElectionResults.txt', 'a+'))
-    print('-------------------------------')
+    print(30 * '-', file=open('ElectionResults.txt', 'a+'))
+    print(30 * '-')
     
     print('Total Votes: ' + str(totVot), file=open('ElectionResults.txt', 'a+'))
     print('Total Votes: ' + str(totVot))
-    print('-------------------------------', file=open('ElectionResults.txt', 'a+'))
-    print('-------------------------------')
-    print(unique(candidates), file=open('ElectionResults.txt', 'a+'))
-    print('-------------------------------', file=open('ElectionResults.txt', 'a+'))
-    print('-------------------------------')
-    print('Winner: ', file=open('ElectionResults.txt', 'a+'))
-    # print('Winner: ' + str(name))
-    print('-------------------------------', file=open('ElectionResults.txt', 'a+'))
-    print('-------------------------------')
+    print(30 * '-', file=open('ElectionResults.txt', 'a+'))
+    print(30 * '-')
+    
+    
+    unique_list = []
+    tmp_name = ''
+    tmp_tally = 0
+     
+    for x in candidates:
+            if x not in unique_list:
+                unique_list.append(x)
+                
+    for x in unique_list:
+            
+            tally = int(countX(candidates,x))
+            
+            if tally > tmp_tally:
+                  tmp_tally = tally
+                  tmp_name = x
+                  
+            per = float(tally)/float(totVot) * 100
+        
+            print(x + ': ' + str(tally) + " votes or " + str(per) + "%", file=open('ElectionResults.txt', 'a+'))
+            print(x + ': ' + str(tally) + " votes or " + str(per) + "%")
+            
+            
+  
+    print(30 * '-', file=open('ElectionResults.txt', 'a+'))
+    print(30 * '-')
+    print('Winner: '+ tmp_name, file=open('ElectionResults.txt', 'a+'))
+    print('Winner: ' + tmp_name)
+    print(30 * '-', file=open('ElectionResults.txt', 'a+'))
+    print(30 * '-')
     print('\n', file=open('ElectionResults.txt', 'a+'))
     print('\n')
